@@ -1,0 +1,2 @@
+# Analysis-of-Student-Teacher-relationships-for-teenage-students-
+This was a study of the Student Teacher relationship between students in the age group 9- 18 based on STRS and SDQ scales of Conflict, Closeness and Dependency &amp; Conduct and Emotional Symptoms respectively separately for each country and then a comparison between the two using Exploratory Data Analysis.This was jointly done by me, Prof Suvashree Roy Chowdhury of North Bengal University and Prof Lombary of Italy .I was guided by Prof Sourav De of Presidency University.
